@@ -1,9 +1,9 @@
 # Hi, I'm Rohit! 👋
 
 ## 🚀 About Me
-I am a **DevOps Engineer at Rakuten Mobile Inc., Japan**, with expertise in **Site Reliability Engineering (SRE)**, **DevOps practices**, and **Python scripting**. My role involves building and maintaining scalable, reliable, and efficient systems while automating workflows to improve operational efficiency.
+I am a **DevOps Engineer at Rakuten Mobile Inc., Japan**, with extensive experience in **Kubernetes**, **Docker**, and **Python scripting**. My role involves building and maintaining scalable, reliable, and efficient systems, automating workflows, and ensuring system reliability as part of the **Site Reliability Engineering (SRE)** team.
 
-I am deeply passionate about **Machine Learning (ML)** and **Artificial Intelligence (AI)** and am actively exploring opportunities to transition into roles where I can apply my skills in these fields. I enjoy solving complex problems and contributing to innovative projects that make a real-world impact.
+In addition to my DevOps expertise, I have a strong academic and professional background in **Machine Learning (ML)**, **Deep Learning**, and **Artificial Intelligence (AI)**. I am passionate about leveraging these technologies to solve real-world problems and am actively exploring opportunities in **ML/AI-related roles**.
 
 ---
 
@@ -14,6 +14,7 @@ Feel free to connect with me on the following platforms:
 [![](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/rohithansdah)
 [![](https://img.shields.io/badge/Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/posiedon99)
 [![](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/RohitHansdah/)
+[![](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RohitHansdah)
 
 ---
 
@@ -22,15 +23,14 @@ Here are some of the technologies and tools I work with:
 
 ### **Programming Languages**
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![](https://img.shields.io/badge/Bash_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![](https://img.shields.io/badge/Bash_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ### **DevOps & SRE Tools**
-![](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+![](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 ![](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
@@ -41,6 +41,11 @@ Here are some of the technologies and tools I work with:
 ![](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+### **Data Visualization**
+![](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 
 ### **Web Development**
 ![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
